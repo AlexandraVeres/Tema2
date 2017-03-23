@@ -1,0 +1,10 @@
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\sandy\documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\sandy\Documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\sandy\Documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\sandy\Documents\visual studio 2013\Projects\Sandy_style\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
